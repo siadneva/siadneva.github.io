@@ -1,0 +1,75 @@
+@media only screen and (max-width: 480px) {
+
+
+body {
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+	color: white;
+	margin: 0;
+	margin-right: .25%;
+	width: 99.75%;
+}
+
+h1 {
+	font-size: 16px;
+	font-weight: normal;
+	margin: 0;
+	padding: 10px;
+}
+
+div {
+	padding: 0;
+}
+
+.yellow {
+	background-color: tan;
+	width: 99.7%;
+	height: 40px;
+	font-size: 2em;
+	text-align: center;
+}
+
+
+
+.blue {
+	background-color: blue;
+	width: 99.75%;
+	height: 100px;
+	font-size: 2em;
+	text-align: center;
+}
+
+.red {
+	background-color: red;
+	width: 99.7%;
+	height: 80px;
+	font-size: 2em;
+	text-align: center;
+	margin-top: .25%;
+	margin-bottom: .25%;
+	margin-right: .25%;
+}
+
+
+.gray {
+	background-color: gray;
+	width: 99.75%;
+	height: 110px;
+}
+
+.pink {
+	background-color: pink;
+	width: 99.7%;
+	height: 80px;
+	float: left;
+	text-align: center;
+	margin-left: .25%;
+	margin-top: 15px;
+}
+
+.clearfix {
+	overflow: auto;
+	zoom: 1;
+}
+
+}
